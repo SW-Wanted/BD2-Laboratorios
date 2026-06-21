@@ -3,7 +3,8 @@
 **Base de Dados 2** - **Laboratórios** realizados pelo  **Grupo 4**.
 
 ## 📝 Laboratórios
-### 🗂️ [Laboratório #01](./Laboratorio01/) – Diagnóstico, Construção e Desafio do Northwind
+### 🗂️ [Laboratório #01](./Laboratorio01/) – Consulta, Diagnóstico e Análise de Dados com Northwind
+### 🗂️ [Laboratório #02](./Laboratorio02/) – Exploração de Banco de Dados Distribuídos
 
 ## Grupo 4
 <div align="left">
