@@ -2,6 +2,9 @@
 
 **Base de Dados 2** - **Laboratórios** realizados pelo  **Grupo 4**.
 
+## 📝 Laboratórios
+### 🗂️ [Laboratório #01](./Laboratorio01/) – Diagnóstico, Construção e Desafio do Banco de Dados Northwind — MySQL 
+
 ## Grupo 4
 <div align="left">
   <table>
