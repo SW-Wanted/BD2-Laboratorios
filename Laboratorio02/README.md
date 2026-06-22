@@ -14,5 +14,5 @@ bdd2-lab02-grupo[N]/
 │   └── migracao.py           ← script de migração para MongoDB
 ├── docker-compose.yml        ← configuração do cluster
 └── relatorio/
-    └── Lab02_Grupo[N].pdf    ← relatório em PDF
+    └── Lab02_Grupo4.pdf    ← relatório em PDF
 ```
