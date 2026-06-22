@@ -4,7 +4,7 @@ Este laboratório apresenta a configuração de um cluster em Docker usando MySQ
 
 ## Estrutura do Laboratório
 ```text
-bdd2-lab02-grupo[N]/
+Laboratorio02/
 ├── README.md                 ← descrição do projeto, como executar, conclusões
 ├── dados/
 │   ├── mercadokwanza_p1.sql  ← dataset da Parte 1
